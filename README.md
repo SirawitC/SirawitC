@@ -25,8 +25,8 @@ Here are some of my publications:
 
 ## 📊 GitHub Stats
 
-![SirawitC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirawitC&show_icons=true&theme=radical)
-![SirawitC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirawitC&layout=compact&theme=radical)
+![SirawitC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirawitC&show_icons=true&theme=default)
+![SirawitC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirawitC&layout=compact&theme=default)
 
 ## 📫 How to reach me
 
