@@ -9,8 +9,8 @@ I'm a passionate researcher and developer with a strong interest in machine lear
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, TypeScript, C++, MATLAB 
-- **Libraries and Frameworks:** PyTorch, TensorFlow, Scikit-learn, FastAPI, Flask, React, Node.js
+- **Languages:** Python, JavaScript, TypeScript, C++, MATLAB, SQL 
+- **Libraries and Frameworks:** PyTorch, TensorFlow, Scikit-learn, FastAPI, Flask, React, Node.js, Next.js
 - **Tools:** Git, Docker, VSCode
 
 ## 📚 Publications
