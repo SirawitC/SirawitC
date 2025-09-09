@@ -17,6 +17,7 @@ I'm a passionate researcher and developer with a strong interest in machine lear
 
 Here are some of my publications:
 
+- **[AI-Powered Virtual Assistants in the Metaverse: Leveraging Retrieval-Augmented Generation for Smarter Interactions](https://ieeexplore.ieee.org/abstract/document/11101141)** </br> _22nd International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2025_
 - **[Thai Legal Fact Classification of Property-Related Offences Using Finetuned BERT Modelling](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_26)** </br> _The 13th International Conference on Computational Data and Social Networks, 2024_
 - **[Intestate Inheritance Allocation Algorithm According to Thai Law Using Bottom-up Pruning Approach](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_24)** </br> _The 13th International Conference on Computational Data and Social Networks, 2024_
 - **[Denoising Raman Spectra Using Autoencoder for Improved Analysis of Contamination in HDD](https://ieeexplore.ieee.org/document/10637964)** </br> _IEEE Access, 2024_
